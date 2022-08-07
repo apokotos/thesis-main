@@ -1,0 +1,91 @@
+Cluster 0
+ said
+ companies
+ business
+ new
+ time
+ suppliers
+ chains
+ data
+ global
+ pandemic
+
+
+Cluster 1
+ market
+ global
+ analysis
+ software
+ report
+ vendor
+ industry
+ data
+ potential
+ based
+
+
+Cluster 2
+ supplier
+ suppliers
+ data
+ visibility
+ business
+ procurement
+ critical
+ way
+ company
+ based
+
+
+Cluster 3
+ company
+ data
+ suppliers
+ business
+ procurement
+ product
+ use
+ insurance
+ year
+ time
+
+
+Cluster 4
+ software
+ security
+ open source
+ open
+ source
+ organizations
+ cybersecurity
+ secure
+ critical
+ using
+
+
+Cluster 5
+ end
+ visibility
+ logistics
+ year
+ said
+ businesses
+ control
+ customers
+ materials
+ time
+
+
+Cluster 6
+ technology
+ information
+ industry
+ cybersecurity
+ logistics
+ systems
+ including
+ help
+ organizations
+ said
+
+
