@@ -1,91 +1,91 @@
 Cluster 0
- market
- business
- companies
- software
- time
- new
- global
- data
- chains
- 2022
+ product
+ decision
+ process
+ approach
+ based
+ demand
+ products
+ model
+ value
+ industry
 
 
 Cluster 1
- company
- procurement
- business
+ review
+ analysis
+ resilience
+ industry
+ international
+ strategies
+ 19
  data
- platform
- product
- use
- insurance
- potential
+ production
  based
 
 
 Cluster 2
- said
- help
- issues
- companies
- industry
- control
- government
- insurance
- just
- security
+ model
+ based
+ production
+ analysis
+ study
+ information
+ international
+ using
+ approach
+ network
 
 
 Cluster 3
- world
- ukraine
- global
- said
- business
- today
- pandemic
- provide
  data
- technology
+ analysis
+ based
+ information
+ model
+ using
+ study
+ systems
+ used
+ time
 
 
 Cluster 4
- procurement
- requirements
- processes
- data
- need
- new
- digital
- organizations
- supplier
- business
+ impact
+ environmental
+ product
+ 19
+ high
+ study
+ sc
+ production
+ model
+ cost
 
 
 Cluster 5
- suppliers
- supplier
- key
- companies
- said
- data
- business
- potential
- provide
- customers
+ fig
+ table
+ results
+ model
+ study
+ different
+ based
+ high
+ analysis
+ used
 
 
 Cluster 6
- businesses
  chains
- challenges
- companies
- business
- end
- impact
- change
- said
- labor
+ resilience
+ 19
+ value
+ blockchain
+ based
+ environmental
+ review
+ strategies
+ approach
 
 
